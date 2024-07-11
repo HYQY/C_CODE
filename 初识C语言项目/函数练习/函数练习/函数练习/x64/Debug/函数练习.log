@@ -1,0 +1,3 @@
+﻿  数组.cpp
+数组.obj : error LNK2005: main 已经在 2024.7.3.obj 中定义
+D:\VS2022--Project\初识C语言项目\函数练习\函数练习\x64\Debug\函数练习.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

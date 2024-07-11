@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(操作符练习.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  2024.7.5.c
+  操作符练习.vcxproj -> D:\VS2022--Project\初识C语言项目\操作符练习\x64\Debug\关键字练习.exe

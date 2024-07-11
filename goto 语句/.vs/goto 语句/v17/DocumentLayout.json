@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2022--Project\\goto \u8BED\u53E5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E57D712-64DD-4D55-92AB-5ED9B9097DB8}|goto \u8BED\u53E5\\goto \u8BED\u53E5.vcxproj|D:\\VS2022--Project\\goto \u8BED\u53E5\\goto \u8BED\u53E5\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E57D712-64DD-4D55-92AB-5ED9B9097DB8}|goto \u8BED\u53E5\\goto \u8BED\u53E5.vcxproj|solutionrelative:goto \u8BED\u53E5\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\VS2022--Project\\goto \u8BED\u53E5\\goto \u8BED\u53E5\\test.c",
+              "RelativeDocumentMoniker": "goto \u8BED\u53E5\\test.c",
+              "ToolTip": "D:\\VS2022--Project\\goto \u8BED\u53E5\\goto \u8BED\u53E5\\test.c",
+              "RelativeToolTip": "goto \u8BED\u53E5\\test.c",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-10T06:12:12.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
