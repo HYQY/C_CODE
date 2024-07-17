@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2022--Project\\\u6C42n\u7684\u9636\u4E58\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B447717D-C93E-49C3-BFAD-AA18F15F67D9}|\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.vcxproj|D:\\VS2022--Project\\\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B447717D-C93E-49C3-BFAD-AA18F15F67D9}|\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.vcxproj|solutionrelative:\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6C42n\u7684\u9636\u4E58.c",
+              "DocumentMoniker": "D:\\VS2022--Project\\\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.c",
+              "RelativeDocumentMoniker": "\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.c",
+              "ToolTip": "D:\\VS2022--Project\\\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.c",
+              "RelativeToolTip": "\u6C42n\u7684\u9636\u4E58\\\u6C42n\u7684\u9636\u4E58.c",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-17T06:36:16.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
