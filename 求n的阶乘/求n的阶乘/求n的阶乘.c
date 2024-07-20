@@ -142,22 +142,6 @@
 //}
 
 
-int Fib(int n)
-{
-	int a = 1;
-	int b = 1;
-	int c = 0;
-	
-	while (n >= 3)
-	{
-		c = a + b;
-		a = b;
-		b = c;
-		n--;
-	}
-
-	return c;
-}
 
 int main()
 {
