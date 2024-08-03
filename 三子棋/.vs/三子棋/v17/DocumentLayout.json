@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 193,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -36,46 +36,47 @@
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.h",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-02T15:22:58.872Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "game.c",
               "DocumentMoniker": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.c",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-02T15:20:37.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\test.c",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\test.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-02T15:20:02.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "\u4E09\u5B50\u68CB.c",
               "DocumentMoniker": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-02T15:15:04.36Z",
               "EditorCaption": ""
