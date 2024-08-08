@@ -23,10 +23,24 @@ game()
 	InitBoard(board, ROW, COL);//初始化棋盘的函数
 
 	DispalyBoard(board, ROW, COL);//打印棋盘
+	//下棋
+	while (1)
+	{
+		PlayerMove(board, ROW, COL);//玩家下棋
+		DispalyBoard(board, ROW, COL);//打印棋盘
+		//判断输赢
+		
+		ComputerMove(board, ROW, COL);//电脑下棋
+		DispalyBoard(board, ROW, COL);//打印棋盘
+		//判断输赢
+
+	}
+
 }
 
 int main()
 {
+	srand((unsigned int)time(NULL));//设置随机数的生成起点的
 	int input = 0;
 	do
 	{
@@ -50,3 +64,5 @@ int main()
 
 	return 0;
 }
+
+

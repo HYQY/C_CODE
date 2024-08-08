@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClCompile Include="game.c" />
     <ClCompile Include="test.c" />
-    <ClCompile Include="三子棋.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h" />

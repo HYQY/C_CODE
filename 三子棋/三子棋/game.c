@@ -41,7 +41,7 @@ void DispalyBoard(char board[ROW][COL], int row, int col)
 		for (j = 0; j < col; j++)
 		{
 			printf(" %c ", board[i][j]);
-			if (j < col - 1)
+			if (j < col - 1)//竖杠少打印一组
 				printf("|");
 		}
 		printf("\n");//打印完一行后换行
@@ -54,10 +54,62 @@ void DispalyBoard(char board[ROW][COL], int row, int col)
 			for (j = 0; j < col; j++)
 			{
 				printf("---");
-				if (j < col - 1)
+				if (j < col - 1)//竖杠少打印一组
 					printf("|");
 			}
 			printf("\n");//打印完一行后换行
 		}
 	}
+}
+
+//玩家下棋
+void PlayerMove(char board[ROW][COL], int row, int col)
+{
+	int x = 0;
+	int y = 0;
+	printf("玩家下棋:>\n");
+	
+	while (1)
+	{
+		printf("请输入坐标:>\n");
+		scanf("%d %d", &x, &y);//接收坐标
+		if (x >= 1 && x <= row && y >= 1 && y <= col)//判断坐标是否合法
+		{
+			if (board[x - 1][y - 1] == ' ')
+			{
+				board[x - 1][y - 1] = '*';
+				break;
+			}
+			else
+			{
+				printf("坐标被占用，不能下棋，请选择其他位置\n");
+			}
+		}
+		else
+		{
+			printf("坐标非法！请重新输入\n");
+		}
+	}
+}
+
+//电脑下棋
+//找没有下棋的位置随机下棋
+void ComputerMove(char board[ROW][COL], int row, int col) 
+{
+	printf("电脑下棋:>\n");
+
+	int x = 0;
+	int y = 0;
+
+	while (1)
+	{
+		x = rand() % row;//生成随机数坐标(0-2)
+		y = rand() % col;//生成随机数坐标(0-2)
+		if (board[x][y] == ' ')
+		{
+			board[x][y] = '#';
+			break;
+		}
+	}
+	
 }
