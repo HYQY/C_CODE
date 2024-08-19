@@ -35,8 +35,7 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-02T15:22:58.872Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\test.c",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\test.c",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-02T15:20:02.448Z",
               "EditorCaption": ""
@@ -61,8 +60,7 @@
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.c",
               "ViewState": "AQIAAGMAAAAAAAAAAAAAAG8AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-02T15:20:37.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T15:20:37.672Z"
             }
           ]
         }
