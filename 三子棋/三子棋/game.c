@@ -113,3 +113,70 @@ void ComputerMove(char board[ROW][COL], int row, int col)
 	}
 	
 }
+
+//IsFull--判断棋盘是否下满
+//约定：
+//如果满了就返回1
+//如果不满就返回0
+int IsFull(char board[ROW][COL], int row, int col)
+{
+	int i = 0;
+	int j = 0;
+	for (i = 0; j < row; i++)//遍历二维数组
+	{
+		for (j = 0; j < col; j++)
+		{
+			if (board[i][j] == ' ')//判断是否等于空格
+			{
+				return 0;//不满
+			}
+		}
+	}
+
+	return 1;//满了
+}
+
+
+//判断谁赢
+char IsWin(char board[ROW][COL], int row, int col)
+{
+	//三行
+	int i = 0;
+	for (i = 0; i < row; i++)
+	{
+		//判断一行中的三个数是否相等，且不等于空格
+		if (board[i][0] == board[i][1] && board[i][1] == board[i][2] && board[i][1] != ' ')
+		{
+			return board[i][1];
+		}
+	}
+	//三列
+	int j = 0;
+	for (j = 0; j < col; j++)
+	{
+		//判断一列中的三个数是否相等，且不等于空格
+		if (board[0][j] == board[1][j] && board[1][j] == board[2][j] && board[1][j] != ' ')
+		{
+			return board[1][j];
+		}
+	}
+	//两个对角线
+	if (board[0][0] == board[1][1] && board[1][1] == board[2][2] && board[1][1] != ' ')
+	{
+		return board[1][1];
+	}
+
+	if (board[0][2] == board[1][1] && board[1][1] == board[2][0] && board[1][1] != ' ')
+	{
+		return board[1][1];
+	}
+
+	//没有人赢，就要判断平局
+	if (IsFull(board, row, col))
+	{
+		return 'Q';
+	}
+
+	//游戏继续
+	return 'C';
+}

@@ -6,9 +6,7 @@
 //game.c -- 游戏代码的实现
 //game.h -- 游戏代码的声明（函数声明，符号定义）
 //
-// 
-// 
-//
+
 
 void menu()
 {
@@ -18,8 +16,9 @@ void menu()
 	printf("******************************\n");
 }
 
-game()
+void game()
 {
+	char ret = 0;//判断输赢的返回值
 	char board[ROW][COL] = { 0 };//棋盘数组
 	
 	InitBoard(board, ROW, COL);//初始化棋盘的函数
@@ -29,15 +28,34 @@ game()
 	while (1)
 	{
 		PlayerMove(board, ROW, COL);//玩家下棋
+		ret = IsWin(board, ROW, COL);//判断输赢
+		if (ret != 'C')//判断下棋是否结束
+		{
+			break;
+		}
 		DispalyBoard(board, ROW, COL);//打印棋盘
-		//判断输赢
 		
 		ComputerMove(board, ROW, COL);//电脑下棋
+		ret = IsWin(board, ROW, COL);//判断输赢
+		if (ret != 'C')//判断下棋是否结束
+		{
+			break;
+		}
 		DispalyBoard(board, ROW, COL);//打印棋盘
-		//判断输赢
-
 	}
-
+	if (ret == '*')//判断哪一方赢了
+	{
+		printf("玩家赢\n");
+	}
+	else if (ret == '#')
+	{
+		printf("电脑赢\n");
+	}
+	else
+	{
+		printf("平局\n");
+	}
+	DispalyBoard(board, ROW, COL);//打印棋盘
 }
 
 int main()

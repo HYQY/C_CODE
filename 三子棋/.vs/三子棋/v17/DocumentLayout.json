@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C776779D-B934-4C47-B90B-D920EC713F16}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 193,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "game.h",
               "DocumentMoniker": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.h",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-02T15:22:58.872Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test.c",
               "DocumentMoniker": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\test.c",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\test.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAiwCkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-02T15:20:02.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "game.c",
               "DocumentMoniker": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.c",
               "ToolTip": "D:\\VS2022--Project\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.c",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG8AAAADAAAA",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAiwJkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-02T15:20:37.672Z"
+              "WhenOpened": "2024-08-02T15:20:37.672Z",
+              "EditorCaption": ""
             }
           ]
         }
